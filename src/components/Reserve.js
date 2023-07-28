@@ -18,7 +18,7 @@ const Reservation = () => {
   }, [dispatch]);
 
   const [reserve, setReserve] = useState({
-    // patient_id: patient.id || '',
+    patient_id: patient.id || '',
     city: '',
     date: '',
     time: '',
