@@ -50,7 +50,7 @@ This app is build with React and Redux.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Render](*(https://doctors-appoinment-2h6p.onrender.com/login*)
+- [Render](https://doctors-appoinment-2h6p.onrender.com/login)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
